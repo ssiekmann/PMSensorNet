@@ -7,14 +7,18 @@ https://en.wikipedia.org/wiki/Particulates
 
 So PM is bad, bad bad and you should know how much of it is in the air you breathe.
 
-#Project scope
+# Project scope
 This project attempts to quantify PM using a network of cheap COTS (commercial off the shelf) sensors. You will find everything to buy, build and run a sensor. You would not be reading this README.md without the work of the original team, http://luftdaten.info/feinstaubsensor-bauen/ and https://github.com/opendata-stuttgart/feinstaub-map. I am very grateful for the work these teams have done. 
 
 This is the first US-installed sensor in Portland, Oregon: https://opensensemap.org/explore/58d82cf2b69fac0011215087, measuring temperature in Celcius, humidity and PM2.5 and PM10.
 
-
+# Project purpose
 The purpose of this repository is to equip you with a checklist and steps. You should be able to get your sensor running within half hour if you have all parts.
 
-#Parts list:
+# Hardware
+
+# Software
+
+# Data
 
 
