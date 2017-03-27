@@ -30,6 +30,7 @@ The city of Portland in Oregon has some dirty secrets. When I moved here, I didn
 Here is what you need to buy:
 
 1. 
+2.
 
 # Software
 
