@@ -1,6 +1,6 @@
 # PMSensorNet
 
-# Particulate matter matters
+# Particulate matter matters particularly
 Particulate matter (PM) or particulates – are microscopic solid or liquid matter. PM of a size between 2.5 and 10 micrometres (μm) are a WHO group 1 carcinogen. In plain English - very cancerous. "In 2013, a study involving 312,944 people in nine European countries revealed that there was no safe level of particulates and that for every increase of 10 μg/m3 in PM10, the lung cancer rate rose 22%. The smaller PM2.5 were particularly deadly, with a 36% increase in lung cancer per 10 μg/m3 as it can penetrate deeper into the lungs."
 
 https://en.wikipedia.org/wiki/Particulates
@@ -15,7 +15,21 @@ This is the first US-installed sensor in Portland, Oregon: https://opensensemap.
 # Project purpose
 The purpose of this repository is to equip you with a checklist and steps. You should be able to get your sensor running within half hour if you have all parts.
 
+# Motivation
+The city of Portland in Oregon has some dirty secrets. When I moved here, I didn't know that 
+
+1. Precision Castparts Corp. is the number one air polluter in the U.S. (disputed by PCC, not surprisingly) https://en.wikipedia.org/wiki/Precision_Castparts_Corp.#cite_note-19
+2. Glas production facilities within residential neighborhoods emit large amounts of toxic heavy metals such as lead, arsenic and cadmium
+3. The agency entrusted with making sure our water is clean and the air is fresh is not positioned to do just that.
+4. Emission control standards in the United States are much, much weaker than in the European Union.
+
+
+
 # Hardware
+
+Here is what you need to buy:
+
+1. 
 
 # Software
 
