@@ -29,11 +29,31 @@ The city of Portland in Oregon has some dirty secrets. When I moved here, I didn
 
 Here is what you need to buy:
 
-1. 
-2.
+1. NodeMCU ESP8266 ($9) CPU/WLAN https://www.amazon.com/gp/product/B010O1G1ES/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
+2. SDS011 ($24) fine particulate sensor http://www.ebay.com/itm/291919396235
+3. DHT22 ($12) temperature & humidity sensor (optional) https://www.amazon.com/gp/product/B0130I6MIC/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1
+4. cables 
+5. 6ft Micro-USB cable
+6. Power supply for USB device 
+7. Housing for the device
+
+Total cost for all components was about $50.
 
 # Software
 
+Once you have aquired the hardware and assembled it, you need to flash the firwmware for the Arduino. 
+
+1. Install Arduiono: https://www.arduino.cc/en/Main/Software
+2. Go to Arduiono settings and add URL into "Additional Board Manager URLs" http://arduino.esp8266.com/stable/package_esp8266com_index.json
+3. Go to "Tools -> Board -> Board manager“ and search for "esp8266", then install "esp8266 by ESP8266 Community"
+installieren
+4. Download firmware https://www.madavi.de/sensor/update/data/latest.bin
+
+## If you are on a Mac, do this:
+1. Open "Terminal" app
+2. Flash firmware using the following command:
+    ~/Library/Arduino15/packages/esp8266/tools/esptool/0.4.9/esptool -vv -cd nodemcu -cb 57600 -ca 0x00000 -cp /dev/cu.$TTYUSBYOUNEEDTOSPECIFY -cf ~/Downloads/latest.bin
+## If you are on a Windows PC, do this:
+## If you are on a Linux PC, do this:
+
 # Data
-
-
